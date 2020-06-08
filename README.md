@@ -1,2 +1,2 @@
-# -JPMorgan-Chase-Co-Internship
+# JPMorgan-Chase-Co-Internship
 Software Engineering Virtual Experience 
